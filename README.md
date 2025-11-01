@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SH1roV12
-- 👀 I’m interested in WebDev and i really want become a cool fullstack developer
+- 👀 I’m interested in WebDev and i really want become a cool backend developer
 - 🌱 I’m currently learning javascript
 - 📫 How to reach me: Tg:@Yaharuott
 - 😄 Pronouns: Yaharuott
