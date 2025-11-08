@@ -2,5 +2,5 @@
 
 
 <center>
-![133761086-round.png](https://i.postimg.cc/7PCHjtZb/133761086-round.png)](https://postimg.cc/Bt0fKgDG)
+<img height="150" src="https://i.postimg.cc/7PCHjtZb/133761086-round.png"  />
 </center>
